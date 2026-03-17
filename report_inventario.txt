@@ -1,0 +1,13 @@
+REPORT ANALISI MAGAZZINO
+=========================
+Mese 1: Rimanenza 406
+Mese 2: Rimanenza 362
+Mese 3: Rimanenza 318
+Mese 4: Rimanenza 274
+Mese 5: Rimanenza 230
+Mese 6: Rimanenza 186
+Mese 7: Rimanenza 142
+Mese 8: Rimanenza 98
+Mese 9: Rimanenza 54
+Mese 10: Rimanenza 10
+Mese 11: Rimanenza 0
